@@ -1,0 +1,2 @@
+org.springframework.boot.context.config.ConfigDataLocationResolver=com.example.env_loader.EnvConfigDataLocationResolver
+org.springframework.boot.context.config.ConfigDataLoader=com.example.env_loader.EnvConfigDataLoader
